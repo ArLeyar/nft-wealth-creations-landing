@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Mail, MapPin } from 'lucide-react';
 
@@ -18,8 +17,8 @@ const Footer = () => {
             <h3 className="text-xl font-display font-bold mb-4 text-wealth-accent">Contact</h3>
             <div className="flex items-center md:justify-end mt-2">
               <Mail className="h-5 w-5 text-wealth-accent mr-2" />
-              <a href="mailto:contact@nftwealthcreations.com" className="text-gray-300 hover:text-wealth-accent transition-colors">
-                contact@nftwealthcreations.com
+              <a href="mailto:contact@nwctrading.xyz" className="text-gray-300 hover:text-wealth-accent transition-colors">
+                contact@nwctrading.xyz
               </a>
             </div>
             <div className="flex items-center md:justify-end mt-2">
