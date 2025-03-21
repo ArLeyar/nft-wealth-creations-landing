@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Shield, TrendingUp, Wallet } from 'lucide-react';
 
@@ -7,6 +6,7 @@ const Header = () => {
     <header className="w-full py-6">
       <div className="container mx-auto px-4 md:px-6 flex justify-between items-center">
         <div className="flex items-center space-x-2">
+          <img src="/logo.jpg" alt="NFT Wealth Creations Logo" className="h-10 w-10 object-contain" />
           <h1 className="text-2xl font-display font-bold text-wealth-dark">NFT Wealth Creations</h1>
         </div>
         <div className="hidden md:flex items-center space-x-8">
