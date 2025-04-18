@@ -2,8 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/1f77e9ca-f28d-40dd-869f-396f72feaea0
-**Custom Domain**: nwctrading.xyz
+**URL**: https://lovable.dev/projects/0f6807fb-60be-4290-863c-0e0c110bf459
 
 ## How can I edit this code?
 
@@ -11,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1f77e9ca-f28d-40dd-869f-396f72feaea0) and start prompting.
+Simply visit the [Lovable Project](https://lovable.dev/projects/0f6807fb-60be-4290-863c-0e0c110bf459) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -63,26 +62,8 @@ This project is built with .
 
 ## How can I deploy this project?
 
-### GitHub Pages Deployment
-This project is configured to automatically deploy to GitHub Pages when changes are pushed to the main branch.
-
-To enable GitHub Pages:
-1. Go to your repository settings
-2. Navigate to "Pages" section
-3. Under "Build and deployment", select "GitHub Actions" as the source
-4. Under "Custom domain", enter: nwctrading.xyz
-5. Check "Enforce HTTPS" for secure connections
-
-The custom domain is configured via the CNAME file in the public directory.
-
-Simply open [Lovable](https://lovable.dev/projects/1f77e9ca-f28d-40dd-869f-396f72feaea0) and click on Share -> Publish.
+Simply open [Lovable](https://lovable.dev/projects/0f6807fb-60be-4290-863c-0e0c110bf459) and click on Share -> Publish.
 
 ## I want to use a custom domain - is that possible?
 
-This project is already set up to use the custom domain: nwctrading.xyz
-
-If you want to change the domain:
-1. Update the CNAME file in the public directory
-2. Update the custom domain in GitHub Pages settings
-
-For deploying to a different service, we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
