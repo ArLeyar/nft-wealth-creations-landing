@@ -187,7 +187,7 @@ const PitchDeck = () => {
                 </li>
                 <li className="flex items-start p-3 hover:bg-gray-800/50 rounded-lg transition-colors">
                   <span className="text-gray-300 mr-3 mt-1"><CheckCircle className="h-6 w-6" /></span>
-                  <span className="text-gray-200"><strong className="text-white">536 NFTs</strong> under management</span>
+                  <span className="text-gray-200"><strong className="text-white">500+ eth</strong> under management</span>
                 </li>
                 <li className="flex items-start p-3 hover:bg-gray-800/50 rounded-lg transition-colors">
                   <span className="text-gray-300 mr-3 mt-1"><CheckCircle className="h-6 w-6" /></span>
